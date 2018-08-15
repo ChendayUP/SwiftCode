@@ -1,0 +1,18 @@
+{
+  "name": "SwiftCode",
+  "version": "1.0.0",
+  "description": "swift代码生成",
+  "scripts": {
+    "start": "zem start",
+    "build": "zem build",
+    "clean": "zem clean",
+    "exec": "zem exec"
+  },
+  "zeplin": {
+    "displayName": "SwiftCode by Chenxixin",
+    "projectTypes":  ["web", "ios", "android", "osx"]
+  },
+  "dependencies": {
+    "zem": "^0.2.0"
+  }
+}
