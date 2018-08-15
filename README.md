@@ -1,4 +1,12 @@
-# SwiftCode
+<p align="center">
+SwiftCode
+</p>
+
+<p align="center">
+  <a href="https://extensions.zeplin.io">
+    <img src="https://img.shields.io/badge/zeplin-extension-ffbe12.svg" alt="Zeplin Extension" />
+  </a>
+</p>
 
 Zeplin extension that generates Swift snippets from colors, Label and layers.
 ## Features
