@@ -38,7 +38,7 @@ First, you need last stable Node.js `^8.9.4`. Follow this [guide](https://github
 Next, install project dependencies:
     
 ```bash
-  npm i
+npm i
 ```
     
 To start developing, to make a build or to execute some functions from extension follow this [guide](https://github.com/zeplin/zem#scripts).
