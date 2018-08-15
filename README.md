@@ -27,11 +27,11 @@ Zeplin extension that generates Swift snippets from colors, Label and layers.
   
     </details>
     
-    ## How to Install
+## How to Install
     
     SwiftCode is available on [Zeplin Extensions](https://extensions.zeplin.io).
     
-    ## How to make a changes
+## How to make a changes
     
     First, you need last stable Node.js `^8.9.4`. Follow this [guide](https://github.com/creationix/nvm/blob/master/README.md#installation) if you don't have any.
     
@@ -47,7 +47,7 @@ Zeplin extension that generates Swift snippets from colors, Label and layers.
     
     If you like to take full control of your build process you can try [zero](https://github.com/baybara-pavel/zero) boilerplate.
     
-    ## Authors
+## Authors
     
     chenxixin 705285647@qq.com
  
